@@ -1,0 +1,2 @@
+# djangonew
+just another repository
